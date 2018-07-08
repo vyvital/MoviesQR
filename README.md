@@ -23,4 +23,4 @@ Productionize an app as part of an interview test.
 -----------------------
 <img src="QR/ss1.png" height="600"/> <img src="QR/ss2.png" height="600"/>
 <img src="QR/ss3.png" height="600"/> <img src="QR/ss4.png" height="600"/>
-<img src="QR/QR.png" width="674"/>
+<img src="QR/QR.PNG" height="600"/>
