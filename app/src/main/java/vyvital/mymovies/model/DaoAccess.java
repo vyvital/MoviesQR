@@ -19,7 +19,7 @@ public interface DaoAccess {
     @Query ("SELECT * FROM movies_db WHERE title = :title")
     Movie fetchOneMoviebyMovieTitle (String title);
 
-    @Query("SELECT * FROM movies_db")
+    @Query("SELECT * FROM movies_db ORDER BY releaseYear DESC")
     List<Movie> fetchMovies();
 
     @Query("DELETE FROM movies_db")
